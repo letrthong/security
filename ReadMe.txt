@@ -7,3 +7,5 @@ https://code.visualstudio.com/docs/remote/remote-overview
 https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack 
 
 https://www.youtube.com/watch?v=XkLjxr9iQ-8
+
+LDAP
