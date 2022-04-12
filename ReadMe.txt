@@ -8,4 +8,4 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remo
 
 https://www.youtube.com/watch?v=XkLjxr9iQ-8
 
-LDAP
+LDAP ldap authentication
