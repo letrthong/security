@@ -9,3 +9,6 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remo
 https://www.youtube.com/watch?v=XkLjxr9iQ-8
 
 LDAP ldap authentication
+
+CMP Server 
+https://www.synopsys.com/software-integrity/security-testing/fuzz-testing/defensics/protocols/cmp-server.html 
